@@ -1,5 +1,6 @@
 *.csv
 *.pdf
+*.xls
 *.xlsx
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -8,3 +9,5 @@
 *.twbr
 settings.json
 *.txt
+*.ppt
+*.pptx
