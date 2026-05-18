@@ -4,4 +4,7 @@
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 *.twb
-*.twbx
+# *.twbx
+*.twbr
+settings.json
+*.txt
